@@ -1,7 +1,7 @@
 # Praktikum 4 - CSS Layout
 
-## Nama: Fadhil Syafiq Abdullah  
-## NIM: 312510161  
+## Nama: Bilal Salya Ramadhan
+## NIM: 312510178  
 ## Mata Kuliah: Pemrograman Web  
 
 ### Membuat Dokumen HTML lab4_box.html<br>
